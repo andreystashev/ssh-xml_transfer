@@ -1,6 +1,3 @@
-# ssh-xml_transfer
-You also need to download libssh https://www.libssh.org/ and put this folder into project folder. Program show how is connect to host via SSH and update file in his directory. Also it shows how we can parse xml file
-
 # ssh-xml-manager
 
 ### Описание
@@ -31,3 +28,6 @@ You also need to download libssh https://www.libssh.org/ and put this folder int
 - Безопасное подключение к удаленным устройствам с использованием SSH.
 - Парсинг и проверка XML-файлов в удаленной директории.
 - Замена устаревших XML-файлов на удаленном устройстве актуальными версиями с вашего локального компьютера.
+
+<img width="719" alt="Screenshot 2024-06-20 at 12 00 16 AM" src="https://github.com/andreystashev/ssh-xml_transfer/assets/70208784/4a60217e-bec0-4566-b482-babfd280d6a4">
+
